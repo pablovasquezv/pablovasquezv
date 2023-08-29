@@ -17,4 +17,5 @@ https://img.shields.io/badge/Java%20-blue?cacheSeconds=3200
 
 -->
 <a href="https://img.shields.io/badge/Java%20-blue?cacheSeconds=3200"></a>
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 
