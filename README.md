@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 https://img.shields.io/badge/Java%20-blue?cacheSeconds=3200
 
 -->
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-pablo-vasquez-vasquez-8a9693206/)](https://www.linkedin.com/in/juan-pablo-vasquez-vasquez-8a9693206/)
 [![Linkedin: juanpablo](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-pablo-vasquez-vasquez-8a9693206/)](www.linkedin.com/in/juan-pablo-vasquez-vasquez-8a9693206/)
 <a href="https://www.linkedin.com/in/juan-pablo-vasquez-vasquez-8a9693206"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lausanabria"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
