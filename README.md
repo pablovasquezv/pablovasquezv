@@ -16,11 +16,11 @@
 https://img.shields.io/badge/Java%20-blue?cacheSeconds=3200
 -->
 
-<p><em>Desarrollador Full Stack <a href="https://www.unap.cl/prontus_unap/site/edic/base/port/inicio.html">Universidad Arturo Pratt</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://https://www.soyfreelancer.com/blog/emprendedurismo/que-es-un-freelancer/">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Desarrollador Full Stack <a href="https://www.unap.cl/prontus_unap/site/edic/base/port/inicio.html">Universidad Arturo Pratt</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://https://www.soyfreelancer.com/blog/emprendedurismo/que-es-un-freelancer/"><b> Free Lancer</b>b></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <a href="https://www.linkedin.com/in/juan-pablo-vasquez-vasquez-8a9693206"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/lausanabria"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 ## Lenguajes
 - ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)  
 - ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
