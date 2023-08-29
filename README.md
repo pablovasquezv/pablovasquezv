@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 https://img.shields.io/badge/Java%20-blue?cacheSeconds=3200
 
 -->
-[![Linkedin: pablo](https://www.linkedin.com/in/juan-pablo-vasquez-vasquez-8a9693206/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-pablo-vasquez-vasquez-8a9693206/)](www.linkedin.com/in/juan-pablo-vasquez-vasquez-8a9693206/)
 ## Lenguajes
 - ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)  
 - ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
