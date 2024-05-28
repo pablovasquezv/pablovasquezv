@@ -65,10 +65,10 @@ Te cuento sobre mí:
 
 ### Herramienta de gestión de versionamiento proyectos
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
-
+![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=FF6C37&logo=GitLab&logoColor=FFFFFF&label=)
 ### Herramienta de gestión de proyectos
 ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
-![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=181717&logo=Jira&logoColor=FFFFFF&label=)
+![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
  
 
 
