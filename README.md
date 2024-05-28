@@ -25,8 +25,14 @@ Te cuento sobre mí:
 - 💬 Pregúntame sobre :  Android - Git - Worpdress - Android Studio - Metodología Scrum - Desarrollo de API REST.
 
 -⚡ Logros de mi carrera: 
+## Educación
 
+- 📖 **Inginiería en Informática**\
+📆 2018 - 2021\
+📍 **Universidad Arturo Prat** - Chile
 * Titulado como Ingeniero en informática de la Universidad Arturo Prat, Chile
+* SCRUM FUNDATION PROFESSIONAL CERTIFICATE SFPC año 2022.
+* Oracle Cloud Infrastructure Foundations Associate año 2002.
 * Scrum Master certificado en el año 2022.
 * Certificación de desarrollo de aplicaciones móviles, Universidad Arturo Prat, Chile
 * Relator de clases particulares de progamación.
@@ -81,13 +87,13 @@ Te cuento sobre mí:
   <summary>📃 Resume</summary>
 
 
-## Education
+## Educación
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+- 📖 **Inginiería en Informática**\
+📆 2018 - 2021\
+📍 **Universidad Arturo Prat** - Chile
 
-## Experience
+## Experiencia
 
 <img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
 <img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
@@ -154,40 +160,6 @@ Te cuento sobre mí:
 
 </details>
 
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - jun/2021\
-📍 **Squadra Digital** - Belo Horizonte/MG, Brazil
-
-<img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
-
-- 👨‍💻 **CIO and Cross Mobile Developer**\
-📆 2016 - 2021\
-📍 **Infinitus Solutions** - Curitiba/PR, Brazil
-
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
-
-- 👨‍💻 **Systems Analyst and Front End Developer**\
-📆 2015 - 2016\
-📍 **Web Works** - Presidente Prudente/SP, Brazil
-
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
-
-
-- 👨‍💻 **Office Assistant**\
-📆 2011 - 2015\
-📍 **Energisa** - Presidente Prudente/SP, Brazil
 
 
 
