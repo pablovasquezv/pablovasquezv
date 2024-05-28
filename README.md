@@ -35,7 +35,7 @@ Te cuento sobre mí:
 
 ### REDES
 <a href="https://www.linkedin.com/in/juan-pablo-vasquez-vasquez-8a9693206"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-agus.romero.salazar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablo1986vasquez@gmail.com)](mailto:pablo1986vasquez@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pablo1986vaquez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablo1986vasquez@gmail.com)](mailto:pablo1986vasquez@gmail.com)
 ### IDE/EDITORS
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
