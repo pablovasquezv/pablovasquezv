@@ -108,6 +108,7 @@ Te cuento sobre mí:
 
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 
 
 
