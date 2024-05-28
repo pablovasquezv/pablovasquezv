@@ -14,6 +14,8 @@ Te cuento sobre mí:
 * Scrum Master certificado en el año 2022.
 * Certificación de desarrollo de aplicaciones móviles, Universidad Arturo Prat, Chile
 * Relator de Desarrollo de aplicaciones móviles en Android.
+* <p><em>Desarrollador Full Stack <a href="https://www.unap.cl/prontus_unap/site/edic/base/port/inicio.html">Universidad Arturo Pratt</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://https://www.soyfreelancer.com/blog/emprendedurismo/que-es-un-freelancer/"><b> Free Lancer</b></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 <!--
 **pablovasquezv/pablovasquezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,8 +33,7 @@ Te cuento sobre mí:
 https://img.shields.io/badge/Java%20-blue?cacheSeconds=3200
 -->
 
-<p><em>Desarrollador Full Stack <a href="https://www.unap.cl/prontus_unap/site/edic/base/port/inicio.html">Universidad Arturo Pratt</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://https://www.soyfreelancer.com/blog/emprendedurismo/que-es-un-freelancer/"><b> Free Lancer</b></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
 
 <a href="https://www.linkedin.com/in/juan-pablo-vasquez-vasquez-8a9693206"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
