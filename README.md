@@ -1,4 +1,19 @@
 ### Hola soy Juan Pablo Vásquez 👋
+Te cuento sobre mí:
+
+- 🔭 Relator de curso de aplicaciones Android formato Bootcamp. 
+- 👯 Busco colaborar en proyectos donde podamos trabajar en equipo.
+- 🤔 Me dediqué por 7 años a la programación de aplicaciones móviles
+-    Estudié 3 años Astrología.
+-    Estudié 1 año Tatot de Marsella.
+- 💬 Pregúntame sobre :  Android - Git - Worpdress - Android Studio - Metodología Scrum - Impresión 3D 
+
+-⚡ Logros de mi carrera: 
+
+* Titulado como Ingeniero en informática de la Universidad Arturo Prat, Chile
+* Scrum Master certificado en el año 2022.
+* Certificación de desarrollo de aplicaciones móviles, Universidad Arturo Prat, Chile
+* Relator de Desarrollo de aplicaciones móviles en Android.
 
 <!--
 **pablovasquezv/pablovasquezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
