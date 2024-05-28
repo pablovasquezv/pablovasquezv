@@ -22,13 +22,8 @@ Te cuento sobre mí:
 -    Estudié 1 año Terapia de Flores de Bach.
 -    Estudié 1 año Reiki nivel 1.
 -    Estudié 1 año Reiki nivel 2.a
-- 💬 Pregúntame sobre :  Android - Git - Worpdress - Android Studio - Metodología Scrum - Desarrollo de API REST.
+- 💬 Pregúntame sobre :  Android - Git - Sprig Boot - Android Studio - Metodología Scrum - Desarrollo de API REST.
 
-## Educación
-
-- 📖 **Ing3niería en Informática**\
-📆 2018 - 2021\
-📍 **Universidad Arturo Prat** - Chile
 -⚡ Logros de mi carrera: 
 * Titulado como Ingeniero en informática de la Universidad Arturo Prat, Chile
 * SCRUM FUNDATION PROFESSIONAL CERTIFICATE SFPC año 2022.
@@ -84,14 +79,8 @@ Te cuento sobre mí:
 
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 Resumen</summary>
 
-
-## Educación
-
-- 📖 **Inginiería en Informática**\
-📆 2018 - 2021\
-📍 **Universidad Arturo Prat** - Chile
 
 ## Experiencia
 
@@ -143,9 +132,9 @@ Te cuento sobre mí:
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 
-- 👨‍💻 **Systems Analyst and Front End Developer**\
-📆 2015 - 2016\
-📍 **Web Works** - Presidente Prudente/SP, Brazil
+- 👨‍💻 ** Mecánico Soldador**\
+📆 2015 - 2017\
+📍 ** Miges** - Concepción, Chile.
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
@@ -153,9 +142,9 @@ Te cuento sobre mí:
 <img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
 
 
-- 👨‍💻 **Office Assistant**\
-📆 2011 - 2015\
-📍 **Energisa** - Presidente Prudente/SP, Brazil
+- 👨‍💻 ** Maestro soldador**\
+📆 2004 - 2015\
+📍 ** Estructuras metálicas Vásquez S.A** - Traiguen, Chile
 
 
 </details>
