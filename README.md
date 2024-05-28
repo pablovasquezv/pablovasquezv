@@ -69,6 +69,7 @@ Te cuento sobre mí:
 ### Herramienta de gestión de proyectos
 ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+ <img height="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png">
 
 
 ### Contacto
@@ -91,29 +92,36 @@ Te cuento sobre mí:
 
 
 ## Experiencia
-
-<img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
-<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img height="30"  align="right" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
+<img height="30" align="right" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png">
+<img height="30" align="right" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png">
+<img height="30" align="right" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png">
+<img height="30" align="right" src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png">
+<img height="30" align="right" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png">
 
 
 - 👨‍💻 **Cross Mobile Developer**\
 📆 2024 - moment\
 📍 **AB InBev** - SANTIAGO/ CHILE
-
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img height="30"  align="right" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
+<img height="30" align="right" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png">
+<img height="30" align="right" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png">
+<img height="30" align="right" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png">
+<img height="30" align="right" src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png">
+<img height="30" align="right" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png">
 
 - 👨‍💻 **Developer Full Stack Proyecto Vulnerabilidades Web **\
 📆 2022 Abr - 2023 dic\
 📍 **Banchile 2022** - SANTIAGO/ CHILE
-
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
-
+<hr>
 - 👨‍💻 **Developer FullStack Sistema RALF**\
 📆 2022 ene - dic/2022\
 📍 **Instituto de seguridad laboral** - SANTIAGO/ CHILE.
-
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img height="30"  align="right" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
+<img height="30" align="right" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png">
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
@@ -123,7 +131,7 @@ Te cuento sobre mí:
 - 👨‍💻 **Developer FullStack Sistema CeroPapel**\
 📆 2021 feb - dici/2021\
 📍 **Ministerio de Salud** - SANTIAGO/ CHILE
-
+<img height="20"  align="right" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
@@ -134,7 +142,8 @@ Te cuento sobre mí:
 - 👨‍💻 **Sistema Interno de Everis Center**\
 📆 2020 - 2021\
 📍 **EVERIS CENTER** - TEMUCO, CHILE
-
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img height="20"  align="right" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
