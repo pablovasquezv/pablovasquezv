@@ -69,5 +69,14 @@ Te cuento sobre mí:
 [![Gmail Badge](https://img.shields.io/badge/-pablo1986vaquez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablo1986vasquez@gmail.com)](mailto:pablo1986vasquez@gmail.com)
 
 
+<a href="https://github.com/pablovasquezv/pablovasquezv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusCode88&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/pablovasquezv/pablovasquezv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=agusCode88&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+
+
 
 
