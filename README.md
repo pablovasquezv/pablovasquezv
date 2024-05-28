@@ -68,8 +68,8 @@ Te cuento sobre mí:
 
 ### Herramienta de gestión de proyectos
 ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
-![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
- <img height="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png">
+![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=181717&logo=Jira&logoColor=FFFFFF&label=)
+ 
 
 
 ### Contacto
