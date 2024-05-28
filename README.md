@@ -115,7 +115,9 @@ Te cuento sobre mí:
 - 👨‍💻 **Developer Full Stack Proyecto Vulnerabilidades Web **\
 📆 2022 Abr - 2023 dic\
 📍 **Banchile 2022** - SANTIAGO/ CHILE
-<hr>
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
+<img height="30"  align="right" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
+ 
 - 👨‍💻 **Developer FullStack Sistema RALF**\
 📆 2022 ene - dic/2022\
 📍 **Instituto de seguridad laboral** - SANTIAGO/ CHILE.
