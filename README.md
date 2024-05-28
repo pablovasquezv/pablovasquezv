@@ -16,6 +16,13 @@ Te cuento sobre mí:
 * Relator de Desarrollo de aplicaciones móviles en Android.
 * <p><em>Desarrollador Full Stack <a href="https://www.unap.cl/prontus_unap/site/edic/base/port/inicio.html">Universidad Arturo Pratt</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://https://www.soyfreelancer.com/blog/emprendedurismo/que-es-un-freelancer/"><b> Free Lancer</b></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+### IDE/EDITORS
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 <!--
 **pablovasquezv/pablovasquezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
