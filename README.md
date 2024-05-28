@@ -1,12 +1,13 @@
 ### Hola soy Juan Pablo Vásquez 👋
 Te cuento sobre mí:
 
-- 🔭 Relator de curso de aplicaciones Android formato Bootcamp. 
+- 🔭 Desarrollador FullStack Java. 
 - 👯 Busco colaborar en proyectos donde podamos trabajar en equipo.
-- 🤔 Me dediqué por 7 años a la programación de aplicaciones móviles
--    Estudié 3 años Astrología.
--    Estudié 1 año Tatot de Marsella.
-- 💬 Pregúntame sobre :  Android - Git - Worpdress - Android Studio - Metodología Scrum - Impresión 3D 
+- 🤔 Me dediqué por 7 años a la programación de aplicaciones Rest.
+-    Estudié 1 año Terapia de Flores de Bach.
+-    Estudié 1 año Reiki nivel 1.
+-    Estudié 1 año Reiki nivel 2.a
+- 💬 Pregúntame sobre :  Android - Git - Worpdress - Android Studio - Metodología Scrum - Desarrollo de API REST.
 
 -⚡ Logros de mi carrera: 
 
@@ -21,6 +22,11 @@ Te cuento sobre mí:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
+- ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+- ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
+- ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+- ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
 
 
 <!--
@@ -58,10 +64,6 @@ https://img.shields.io/badge/Java%20-blue?cacheSeconds=3200
 - ![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
 - ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ## Herramientas:
-- ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
-- ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
-- ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
-- ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
-- ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
+
 
 
