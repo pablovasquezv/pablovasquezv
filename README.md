@@ -51,9 +51,9 @@ Te cuento sobre mí:
 
 ### BASE DE DATOS
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
-![POSTGRESQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4479A1&logo=PostgreSQLL&logoColor=FFFFFF&label=)
-![ORACLE](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4479A1&logo=PostgreSQLL&logoColor=FFFFFF&label=)
-![FIREBASE](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4479A1&logo=PostgreSQLL&logoColor=FFFFFF&label=)
+![POSTGRESQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4479A1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+![ORACLE](https://img.shields.io/static/v1?style=for-the-badge&message=ORACLE&color=4479A1&logo=ORACLE&logoColor=FFFFFF&label=)
+![FIREBASE](https://img.shields.io/static/v1?style=for-the-badge&message=FIREBASE&color=4479A1&logo=FIREBASE&logoColor=FFFFFF&label=)
 
 ### IDE/EDITORS
 
