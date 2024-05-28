@@ -34,7 +34,7 @@ Te cuento sobre mí:
 * <p><em>Desarrollador Full Stack <a href="https://www.unap.cl/prontus_unap/site/edic/base/port/inicio.html">Universidad Arturo Pratt</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://https://www.soyfreelancer.com/blog/emprendedurismo/que-es-un-freelancer/"><b> Free Lancer</b></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<hr>
+
 ### Lenguajes
 ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
@@ -49,7 +49,7 @@ Te cuento sobre mí:
 ![JUnit5](https://img.shields.io/static/v1?style=for-the-badge&message=JUnit5&color=25A162&logo=JUnit5&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=) 
-<hr>
+
 ### IDE/EDITORS
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -57,12 +57,12 @@ Te cuento sobre mí:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 
-<hr>
+
 ### Herramienta de gestión de proyectos
 ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 
-<hr>
+
 ### Contacto
 <a href="https://www.linkedin.com/in/juan-pablo-vasquez-vasquez-8a9693206"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-pablo1986vaquez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablo1986vasquez@gmail.com)](mailto:pablo1986vasquez@gmail.com)
@@ -72,7 +72,7 @@ Te cuento sobre mí:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablovasquezv&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/pablovasquezv/pablovasquezv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablovasquezv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablovasquezv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin GitHub Stats" />
 </a>
 <hr>
 <br/>
@@ -89,31 +89,31 @@ Te cuento sobre mí:
 
 
 - 👨‍💻 **Cross Mobile Developer**\
-📆 2023 - moment\
-📍 **AB InBev** - Campinas/SP, Brazil
+📆 2024 - moment\
+📍 **AB InBev** - SANTIAGO/ CHILE
 
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - 2023\
-📍 **Xp Inc** - São Paulo/SP, Brazil
+- 👨‍💻 **Developer Full Stack Proyecto Vulnerabilidades Web **\
+📆 2022 Abr - 2023 dic\
+📍 **Banchile 2022** - SANTIAGO/ CHILE
 
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - oct/2021\
-📍 **Avanade** - São Paulo/SP, Brazil
+- 👨‍💻 **Developer FullStack Sistema RALF**\
+📆 2022 ene - dic/2022\
+📍 **Instituto de seguridad laboral** - SANTIAGO/ CHILE.
 
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
 
 
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - jun/2021\
-📍 **Squadra Digital** - Belo Horizonte/MG, Brazil
+- 👨‍💻 **Developer FullStack Sistema CeroPapel**\
+📆 2021 feb - dici/2021\
+📍 **Ministerio de Salud** - SANTIAGO/ CHILE
 
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
@@ -122,9 +122,9 @@ Te cuento sobre mí:
 <img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
-- 👨‍💻 **CIO and Cross Mobile Developer**\
-📆 2016 - 2021\
-📍 **Infinitus Solutions** - Curitiba/PR, Brazil
+- 👨‍💻 **Sistema Interno de Everis Center**\
+📆 2020 - 2021\
+📍 **EVERIS CENTER** - TEMUCO, CHILE
 
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
