@@ -32,6 +32,10 @@ Te cuento sobre mí:
 * Relator de clases particulares de progamación.
 * <p><em>Desarrollador Full Stack <a href="https://www.unap.cl/prontus_unap/site/edic/base/port/inicio.html">Universidad Arturo Pratt</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://https://www.soyfreelancer.com/blog/emprendedurismo/que-es-un-freelancer/"><b> Free Lancer</b></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+
+### REDES
+<a href="https://www.linkedin.com/in/juan-pablo-vasquez-vasquez-8a9693206"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 ### IDE/EDITORS
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -44,9 +48,6 @@ Te cuento sobre mí:
 ### Herramienta de gestión de proyectos
 ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
 
-
-
-<a href="https://www.linkedin.com/in/juan-pablo-vasquez-vasquez-8a9693206"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Lenguajes
 ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
