@@ -24,12 +24,12 @@ Te cuento sobre mí:
 -    Estudié 1 año Reiki nivel 2.a
 - 💬 Pregúntame sobre :  Android - Git - Worpdress - Android Studio - Metodología Scrum - Desarrollo de API REST.
 
--⚡ Logros de mi carrera: 
 ## Educación
 
-- 📖 **Inginiería en Informática**\
+- 📖 **Ing3niería en Informática**\
 📆 2018 - 2021\
 📍 **Universidad Arturo Prat** - Chile
+-⚡ Logros de mi carrera: 
 * Titulado como Ingeniero en informática de la Universidad Arturo Prat, Chile
 * SCRUM FUNDATION PROFESSIONAL CERTIFICATE SFPC año 2022.
 * Oracle Cloud Infrastructure Foundations Associate año 2002.
