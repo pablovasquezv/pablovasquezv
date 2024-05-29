@@ -25,7 +25,7 @@ Te cuento sobre mí:
 - 💬 Pregúntame sobre :  Android - Git - Sprig Boot - Android Studio - Metodología Scrum - Desarrollo de API REST.
 
 -⚡ Logros de mi carrera: 
-*🌱 Titulado como Ingeniero en informática de la Universidad Arturo Prat, Chile
+* 🌱 Titulado como Ingeniero en informática de la Universidad Arturo Prat, Chile
 * 🌱 SCRUM FUNDATION PROFESSIONAL CERTIFICATE SFPC año 2022.
 * 🌱 Oracle Cloud Infrastructure Foundations Associate año 2002.
 * 🌱 Scrum Master certificado en el año 2022.
