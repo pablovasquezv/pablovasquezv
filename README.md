@@ -20,17 +20,17 @@ Te cuento sobre mí:
 - 👯 Busco colaborar en proyectos donde podamos trabajar en equipo.
 - 🤔 Me dediqué por 7 años a la programación de aplicaciones Rest.
 -    Estudié 1 año Terapia de Flores de Bach.
--    Estudié 1 año Reiki nivel 1.
--    Estudié 1 año Reiki nivel 2.a
+-    Estudié 6 meses Reiki nivel 1.
+-    Estudié 1 año Reiki nivel 2.
 - 💬 Pregúntame sobre :  Android - Git - Sprig Boot - Android Studio - Metodología Scrum - Desarrollo de API REST.
 
 -⚡ Logros de mi carrera: 
-* Titulado como Ingeniero en informática de la Universidad Arturo Prat, Chile
-* SCRUM FUNDATION PROFESSIONAL CERTIFICATE SFPC año 2022.
-* Oracle Cloud Infrastructure Foundations Associate año 2002.
-* Scrum Master certificado en el año 2022.
-* Certificación de desarrollo de aplicaciones móviles, Universidad Arturo Prat, Chile
-* Relator de clases particulares de progamación.
+*🌱 Titulado como Ingeniero en informática de la Universidad Arturo Prat, Chile
+* 🌱 SCRUM FUNDATION PROFESSIONAL CERTIFICATE SFPC año 2022.
+* 🌱 Oracle Cloud Infrastructure Foundations Associate año 2002.
+* 🌱 Scrum Master certificado en el año 2022.
+* 🌱 Certificación de desarrollo de aplicaciones móviles, Universidad Arturo Prat, Chile
+* 🔭 Relator de clases particulares de progamación.
 * <p><em>Desarrollador Full Stack <a href="https://www.unap.cl/prontus_unap/site/edic/base/port/inicio.html">Universidad Arturo Pratt</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://https://www.soyfreelancer.com/blog/emprendedurismo/que-es-un-freelancer/"><b> Free Lancer</b></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
