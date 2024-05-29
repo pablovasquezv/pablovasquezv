@@ -13,15 +13,15 @@
 - ⚡ Fun fact: ...
 https://img.shields.io/badge/Java%20-blue?cacheSeconds=3200
 -->
-### Hola soy Juan Pablo Vásquez 👋
+### Hola soy Developer FullStack y me llamo Juan Pablo Vásquez 👋
 Te cuento sobre mí:
 
 - 🔭 Desarrollador FullStack Java. 
 - 👯 Busco colaborar en proyectos donde podamos trabajar en equipo.
 - 🤔 Me dediqué por 7 años a la programación de aplicaciones Rest.
--    Estudié 1 año Terapia de Flores de Bach.
--    Estudié 6 meses Reiki nivel 1.
--    Estudié 1 año Reiki nivel 2.
+- 🌱 Estudié 1 año Terapia de Flores de Bach.
+- 🌱 Estudié 6 meses Reiki nivel 1.
+- 🌱 Estudié 1 año Reiki nivel 2.
 - 💬 Pregúntame sobre :  Android - Git - Sprig Boot - Android Studio - Metodología Scrum - Desarrollo de API REST.
 
 -⚡ Logros de mi carrera: 
