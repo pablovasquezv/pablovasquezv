@@ -39,6 +39,7 @@ Te cuento sobre mí:
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=) 
+![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=4479A1&logo=Java&logoColor=FFFFFF&label=)
 ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7952B3&logo=Kotlin&logoColor=FFFFFF&label=)
 
