@@ -80,28 +80,11 @@ Te cuento sobre mí:
 ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
  
-
-
-### Contacto
-<a href="https://www.linkedin.com/in/juan-pablo-vasquez-vasquez-8a9693206"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-pablo1986vaquez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablo1986vasquez@gmail.com)](mailto:pablo1986vasquez@gmail.com)
-
-
-<a href="https://github.com/pablovasquezv/pablovasquezv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablovasquezv&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/pablovasquezv/pablovasquezv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablovasquezv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin GitHub Stats" />
-</a>
-<hr>
-<br/>
-
-
 <details>
-  <summary>📃 Resumen</summary>
+  <summary>📃<h2> RESUMEN LABORAL</h2> </summary>
 
 
-## Experiencia
+## EXPERIENCIA
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img height="30"  align="right" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
 <img height="30" align="right" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png">
@@ -180,5 +163,23 @@ Te cuento sobre mí:
 </details>
 
 
+
+
+
+
+### Contacto
+<a href="https://www.linkedin.com/in/juan-pablo-vasquez-vasquez-8a9693206"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-pablo1986vaquez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pablo1986vasquez@gmail.com)](mailto:pablo1986vasquez@gmail.com)
+
+
+
+<a href="https://github.com/pablovasquezv/pablovasquezv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablovasquezv&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/pablovasquezv/pablovasquezv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablovasquezv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin GitHub Stats" />
+</a>
+<hr>
+<br/>
 
 
