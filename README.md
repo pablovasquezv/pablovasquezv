@@ -9,7 +9,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Java+con+Arquitectura+Hexagonal;Desarrollador+Android+con+kotlin+clean+Architedte;Freelancer;Creativo%20|%20Determinado%20;En%20constante%20crecimiento;de%20mis%20conocimientos&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Java+con+Spring boot;Arquitectura+Hexagonal;Desarrollador+Android+con+kotlin+clean+Architedte;Freelancer;Creativo%20|%20Determinado%20;En%20constante%20crecimiento;de%20mis%20conocimientos&center=true&width=380&height=45"></a>
 </p>
 
 <hr>
