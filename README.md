@@ -11,10 +11,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 https://img.shields.io/badge/Java%20-blue?cacheSeconds=3200
--->
+
 ### Hola soy Developer FullStack y me llamo Juan Pablo Vásquez 👋
 
 **pablovasquezv/pablovasquezv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 <h1 align="center">
 🌙 Hola, Soy Pablo ! 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
@@ -24,7 +25,7 @@ https://img.shields.io/badge/Java%20-blue?cacheSeconds=3200
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Java+con+Spring+boot;Patrones+Arquitectura+Hexagonal;Desarrollador+Android+con+kotlin;Adroid+con+clean+Architedte;Freelancer;Creativo%20|%20Determinado%20;En%20constante%20crecimiento;de%20mis%20conocimientos&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Java+con+Spring+boot;Creación+de+proyectos+con+Arquitectura+Hexagonal;Desarrollador+Android+con+kotlin;Adroid+con+clean+Architecture;Freelancer;Creativo%20|%20Determinado%20;En%20constante%20crecimiento;de%20mis%20conocimientos&center=true&width=380&height=45"></a>
 </p>
 
 <hr>
