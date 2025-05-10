@@ -25,7 +25,7 @@ https://img.shields.io/badge/Java%20-blue?cacheSeconds=3200
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Java+con+Spring+boot;Proyectos+con+Arquitectura+Hexagonal;Desarrollador+Android+con+kotlin;Adroid+clean+Architecture+Jetpack+Compose;Adroid+con+Jetpack+Compose;Freelancer+remote+work;Creativo%20|%20Determinado%20Proa+Activo;En%20constante%20crecimiento;de%20mis%20conocimientos&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Java+con+Spring+boot;%20Proyectos+con+Arquitectura+Hexagonal;Desarrollador+Android+con+kotlin;Adroid+clean+Architecture+Jetpack+Compose;Adroid+con+Jetpack+Compose;Freelancer+remote+work;Creativo%20|%20Determinado%20|Proa+Activo;En%20constante%20crecimiento;de%20mis%20conocimientos&center=true&width=380&height=45"></a>
 </p>
 
 <hr>
